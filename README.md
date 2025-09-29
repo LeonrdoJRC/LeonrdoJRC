@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola soy Leonardo Jasiel Reyes Cerecedo 
+Soy un estudiante en la el Tecnologuico de reynosa estudiando la materia de Tecnologuias de la comunicacion 
 <!--
 **LeonrdoJRC/LeonrdoJRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
